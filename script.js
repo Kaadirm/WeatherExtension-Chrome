@@ -1,24 +1,3 @@
-// Açıklama;
-
-// Bu görevde, bir Chrome eklentisi geliştirmeniz istenmektedir.
-// Eklenti, bir hava durumu servisinden veri çekmeli ve bu veriyi kullanıcıya sunmalıdır.
-
-// Görevler;
-
-// Temel bir Chrome eklentisi oluşturun.
-// Eklenti simgesine tıklandığında, açılacak olan Popup sayfası içerisinde bir API isteği göndererek hava durumu verilerini alın.
-// Alınan verileri işleyin ve kullanıcıya Popup sayfası içerisinde anlamlı bir şekilde gösterin.
-// Hava durumu verilerini güncellemek için kullanıcıya bir buton sağlayın.
-// Kullanıcı arayüzü basit ve kullanıcı dostu olmalıdır.
-
-// Teknik Gereksinimler;
-
-// Eklenti, manifest dosyasıyla uyumlu bir şekilde oluşturulmalıdır.
-// Hava durumu verilerini çekmek için ücretsiz bir hava durumu API'sini kullanmalısınız (örneğin, OpenWeather API).
-// Veriyi işlemek ve kullanıcı arayüzünü güncellemek için JavaScript kullanın.
-// İsteği asenkron olarak yönetmek için Promises veya async/await kullanın.
-// Kullanıcı arayüzü HTML ve CSS kullanılarak basit ve düzenli olmalıdır.
-
 const key = "5c65cdcd1a97bb28eb7e15a342fcdb4c";
 let lat;
 let lon;
