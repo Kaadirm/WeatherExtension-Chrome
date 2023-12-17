@@ -6,6 +6,7 @@ This Chrome Weather Extension provides real-time weather information based on yo
 
 ## Preview
 
+![WeatherExtension](https://github.com/Kaadirm/WeatherExtension-Chrome/assets/141996672/8eaf5a7d-da22-41b9-ad00-d4fe37c5e1be)
 
 
 ## How to Use
@@ -40,7 +41,5 @@ This Chrome Weather Extension provides real-time weather information based on yo
 ## Demo
 
 For a live demo, you can visit the [Chrome Weather Extension page](https://kaadirm.github.io/WeatherExtension-Chrome/).
-
-Feel free to explore, modify, and enhance this extension as needed. If you encounter any issues or have suggestions, please create an issue on the [GitHub repository](https://github.com/your-username/your-repo).
 
 Happy weather tracking! 🌦️
