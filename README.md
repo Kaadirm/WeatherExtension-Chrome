@@ -6,7 +6,8 @@ This Chrome Weather Extension provides real-time weather information based on yo
 
 ## Preview
 
-![WeatherExtension](https://github.com/Kaadirm/WeatherExtension-Chrome/assets/141996672/8eaf5a7d-da22-41b9-ad00-d4fe37c5e1be)
+![WeatherExtension](https://github.com/Kaadirm/WeatherExtension-Chrome/assets/141996672/485668bd-270e-42b3-a539-2adfee8825b3)
+
 
 
 ## How to Use
