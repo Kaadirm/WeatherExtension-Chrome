@@ -4,10 +4,13 @@
 
 This Chrome Weather Extension provides real-time weather information based on your current location. It utilizes the OpenWeatherMap API to fetch weather data and displays essential details such as temperature, weather conditions, humidity, feels-like temperature, and wind speed. The extension features a clean and minimalistic design with intuitive icons for better user experience.
 
+## Demo
+
+For a live demo, you can visit the [Chrome Weather Extension page](https://kaadirm.github.io/WeatherExtension-Chrome/).
+
 ## Preview
 
 ![WeatherExtension](https://github.com/Kaadirm/WeatherExtension-Chrome/assets/141996672/485668bd-270e-42b3-a539-2adfee8825b3)
-
 
 
 ## How to Use
@@ -39,8 +42,6 @@ This Chrome Weather Extension provides real-time weather information based on yo
 
 - The extension's design is simple and responsive. You can further customize the UI by modifying the HTML and CSS files.
 
-## Demo
 
-For a live demo, you can visit the [Chrome Weather Extension page](https://kaadirm.github.io/WeatherExtension-Chrome/).
 
 Happy weather tracking! 🌦️
